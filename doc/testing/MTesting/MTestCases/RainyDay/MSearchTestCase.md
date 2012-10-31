@@ -6,6 +6,8 @@
 ### Pre-Requisites
 * User is verified at log in.
 
+###Rainy Day Scenario
+
 <table>
 	<tr>
 		<th>Inputs</th>
